@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Girl Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Boy Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Acting Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Love Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Love",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Horror Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Novel Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Comic Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    },
+    {
+        "id": 1,
+        "name": "Comedy Book",
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-fla…341898.jpg?ga=GA1.2.304473693.1716566427&semt=sph"
+        
+    }
+]
